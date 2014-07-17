@@ -1,0 +1,12 @@
+C:\Users\Milos\Documents\Visual Studio 2013\Projects\TIFFtoPDF\TIFFtoPDF\bin\Debug\TIFFtoPDF.exe.config
+C:\Users\Milos\Documents\Visual Studio 2013\Projects\TIFFtoPDF\TIFFtoPDF\bin\Debug\TIFFtoPDF.exe
+C:\Users\Milos\Documents\Visual Studio 2013\Projects\TIFFtoPDF\TIFFtoPDF\bin\Debug\TIFFtoPDF.pdb
+C:\Users\Milos\Documents\Visual Studio 2013\Projects\TIFFtoPDF\TIFFtoPDF\bin\Debug\itextsharp.dll
+C:\Users\Milos\Documents\Visual Studio 2013\Projects\TIFFtoPDF\TIFFtoPDF\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Milos\Documents\Visual Studio 2013\Projects\TIFFtoPDF\TIFFtoPDF\bin\Debug\itextsharp.xtra.dll
+C:\Users\Milos\Documents\Visual Studio 2013\Projects\TIFFtoPDF\TIFFtoPDF\obj\Debug\TIFFtoPDF.Form1.resources
+C:\Users\Milos\Documents\Visual Studio 2013\Projects\TIFFtoPDF\TIFFtoPDF\obj\Debug\TIFFtoPDF.Properties.Resources.resources
+C:\Users\Milos\Documents\Visual Studio 2013\Projects\TIFFtoPDF\TIFFtoPDF\obj\Debug\TIFFtoPDF.csproj.GenerateResource.Cache
+C:\Users\Milos\Documents\Visual Studio 2013\Projects\TIFFtoPDF\TIFFtoPDF\obj\Debug\TIFFtoPDF.exe
+C:\Users\Milos\Documents\Visual Studio 2013\Projects\TIFFtoPDF\TIFFtoPDF\obj\Debug\TIFFtoPDF.pdb
+C:\Users\Milos\Documents\Visual Studio 2013\Projects\TIFFtoPDF\TIFFtoPDF\obj\Debug\TIFFtoPDF.csprojResolveAssemblyReference.cache
